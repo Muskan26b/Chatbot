@@ -1,3 +1,8 @@
+## 🎨 UI Design & Prototype  
+View my full UI design and prototype in Figma:  
+[Click Here]https://www.figma.com/proto/6Bw96cEI1RBx3HRPp9TkcZ/Chatbot?node-id=0-1&t=uFznKc2XmVyjAu9U-1
+
+
 # Chatbot
 # Lumika AI Companion - UI/UX Design
 
